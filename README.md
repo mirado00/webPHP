@@ -1,2 +1,2 @@
 # webPHP
-programme web qui utilise le langage PHP
+programme sur le multiplication entre a et b.

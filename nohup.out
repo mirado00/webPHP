@@ -1,0 +1,6 @@
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+[12214:12214:0304/213729.355889:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[12214:12214:0304/214354.510384:ERROR:atom_cache.cc(224)] Add chromium/from-privileged to kAtomsToCache
+[12214:12214:0304/215032.688502:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[12214:12214:0304/220805.201686:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
